@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/movieFinder/static/js/main.c797f883.js",
-    "index.html": "/movieFinder/index.html",
-    "main.c797f883.js.map": "/movieFinder/static/js/main.c797f883.js.map"
+    "main.js": "/react-for-beginners/static/js/main.c797f883.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.c797f883.js.map": "/react-for-beginners/static/js/main.c797f883.js.map"
   },
   "entrypoints": [
     "static/js/main.c797f883.js"
