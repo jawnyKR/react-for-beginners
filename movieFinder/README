@@ -9,5 +9,3 @@ Create movie finder web app, using the API (https://yts.mx/api/v2/list_movies.js
 
 #----------- IMPORTANT -----------#
 a. check if you add `import React from "react";` in all files
-b. when you add `import { BrowserRouter as Router, Switch, Route } from "react-router-dom";`, 
-check if you also added basename like `<Route path="/movie/:id" basename={process.env.PUBLIC_URL}>` and `</Route>`
