@@ -1,1 +1,7 @@
 Create movie finder web app, using the API (https://yts.mx/api/v2/list_movies.json?minimum_rating=9&sort_by=year)
+
+1. @ VSC terminal, npm i gh-pages
+2. go to `package.json` and add "deploy": "gh-pages -d build", "predeploy": "npm run build" @ "scripts" section.
+3. add at the last part of `package.json`, like ... }, "homepage": "https://<git_user_name>.github.io/<your_url>"}
+4. @ VSC terminal, npm run deploy
+5. wait for 5 minutes
