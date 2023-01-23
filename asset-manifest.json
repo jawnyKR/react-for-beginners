@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/jawnyKR/react-for-beginners/tree/main/movieFinder/static/js/main.ef1a6e0a.js",
-    "index.html": "/jawnyKR/react-for-beginners/tree/main/movieFinder/index.html",
-    "main.ef1a6e0a.js.map": "/jawnyKR/react-for-beginners/tree/main/movieFinder/static/js/main.ef1a6e0a.js.map"
+    "main.js": "/movieFinder/static/js/main.c797f883.js",
+    "index.html": "/movieFinder/index.html",
+    "main.c797f883.js.map": "/movieFinder/static/js/main.c797f883.js.map"
   },
   "entrypoints": [
-    "static/js/main.ef1a6e0a.js"
+    "static/js/main.c797f883.js"
   ]
 }
