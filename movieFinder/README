@@ -10,3 +10,13 @@ Create movie finder web app, using the API (https://yts.mx/api/v2/list_movies.js
 #----------- IMPORTANT -----------#
 a. check if you add `import React from "react";` in all files
 b. check if you have git repo with git remote -v
+
+#--- git ---#
+
+git init
+git remote remove origin (if remote origin already exists)
+git add origin <my-git-url>
+git add .
+git commit -m "<file_name>"
+git push origin master
+
